@@ -1,2 +1,3 @@
-# aoc
+# Advent of Code
 https://adventofcode.com/
+My solutions to [Advent of Code](https://adventofcode.com/).
